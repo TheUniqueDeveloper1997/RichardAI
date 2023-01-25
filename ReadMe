@@ -1,3 +1,7 @@
+RichardAI can answer all questions! All you have to do is type into the text box and it'll give you the solution you'll need.
+By creating a simple user interface, the features are simple yet deadly. Given a input, it will give you the optimal response
+to the input. It takes your question or statement into consideration and spits back out an answer by calling to the openAI API.
+
 • Designed and implemented responsive layouts with css
 • Designed and implemented backend API to make endpoint requests from openAI 
 • Made api requests to catch errors
